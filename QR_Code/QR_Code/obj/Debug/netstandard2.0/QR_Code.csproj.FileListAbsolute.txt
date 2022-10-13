@@ -1,0 +1,15 @@
+D:\Workspace\xamarin\QR_Code\QR_Code\QR_Code\bin\Debug\netstandard2.0\QR_Code.deps.json
+D:\Workspace\xamarin\QR_Code\QR_Code\QR_Code\bin\Debug\netstandard2.0\QR_Code.dll
+D:\Workspace\xamarin\QR_Code\QR_Code\QR_Code\bin\Debug\netstandard2.0\QR_Code.pdb
+D:\Workspace\xamarin\QR_Code\QR_Code\QR_Code\obj\Debug\netstandard2.0\QR_Code.csproj.AssemblyReference.cache
+D:\Workspace\xamarin\QR_Code\QR_Code\QR_Code\obj\Debug\netstandard2.0\QR_Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\xamarin\QR_Code\QR_Code\QR_Code\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Workspace\xamarin\QR_Code\QR_Code\QR_Code\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Workspace\xamarin\QR_Code\QR_Code\QR_Code\obj\Debug\netstandard2.0\QR_Code.AssemblyInfoInputs.cache
+D:\Workspace\xamarin\QR_Code\QR_Code\QR_Code\obj\Debug\netstandard2.0\QR_Code.AssemblyInfo.cs
+D:\Workspace\xamarin\QR_Code\QR_Code\QR_Code\obj\Debug\netstandard2.0\QR_Code.csproj.CoreCompileInputs.cache
+D:\Workspace\xamarin\QR_Code\QR_Code\QR_Code\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Workspace\xamarin\QR_Code\QR_Code\QR_Code\obj\Debug\netstandard2.0\QR_Code.dll
+D:\Workspace\xamarin\QR_Code\QR_Code\QR_Code\obj\Debug\netstandard2.0\refint\QR_Code.dll
+D:\Workspace\xamarin\QR_Code\QR_Code\QR_Code\obj\Debug\netstandard2.0\QR_Code.pdb
+D:\Workspace\xamarin\QR_Code\QR_Code\QR_Code\obj\Debug\netstandard2.0\ref\QR_Code.dll
